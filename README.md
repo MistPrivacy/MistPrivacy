@@ -66,7 +66,7 @@ Works seamlessly with your favorite Solana tools:
 
 *Non-Custodial* • *Open Source* • *Audited*
 
-**[🚀 Enter the ZKLINKSec](https://ZKLINKSecprivacy.xyz)** | **[📚 Read Docs](https://ZKLINKSecprivacy.xyz/docs.html)**
+**[🚀 Enter the ZKLINKSec](https://ZKLINKSecprivacy.xyz)** | **[📚 Read Docs](https://zklinksec.xzklinksec.xyz/docsyz/docs)**
 
 ---
 

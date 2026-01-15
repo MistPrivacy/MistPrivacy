@@ -1,11 +1,11 @@
 <div align="center">
 
-# 🌫️ MIST
+# 🌫️ ZKLINKSec
 
-### Disappear into the Mist
+### Disappear into the ZKLINKSec
 
-[![Website](https://img.shields.io/badge/Website-mistprivacy.xyz-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mistprivacy.xyz)
-[![Twitter](https://img.shields.io/badge/Twitter-@MistPrivacy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MistPrivacy)
+[![Website](https://img.shields.io/badge/Website-ZKLINKSecprivacy.xyz-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ZKLINKSecprivacy.xyz)
+[![Twitter](https://img.shields.io/badge/Twitter-@ZKLINKSecPrivacy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ZKLINKSecPrivacy)
 [![Solana](https://img.shields.io/badge/Built%20on-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com)
 
 ---
@@ -66,7 +66,7 @@ Works seamlessly with your favorite Solana tools:
 
 *Non-Custodial* • *Open Source* • *Audited*
 
-**[🚀 Enter the Mist](https://mistprivacy.xyz)** | **[📚 Read Docs](https://mistprivacy.xyz/docs.html)**
+**[🚀 Enter the ZKLINKSec](https://ZKLINKSecprivacy.xyz)** | **[📚 Read Docs](https://ZKLINKSecprivacy.xyz/docs.html)**
 
 ---
 
